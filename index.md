@@ -2,10 +2,7 @@
 ### 1. Fampahoriana: ny tontolon-kevitra sy ny fahaterahan'i Mosesy
 Ary ny zanak'isiraely nisento noho ny fanompoany ka nitaraina; ary niakatra tany amin'Andriamanitra ny fitarainany noho ny fanompoany. Ary Andriamanitra nandre ny fitarainany dia nahatsiaro ny fanekeny tamin'i Abrahama sy Isaka ary Jakoba. Ary Andriamanitra nijery ny zanak'Isiraely ka nahafantatra azy.  
 **Eks 2 : 23-25**
-<audio controls>
-          <source src="2025t3lesona1.acc" type="audio/mpeg">
-          Your browser does not support the audio element.
-</audio>
+
 
 ### 2. Ilay roimemy nirehitra
 Ary hoy Jehovah: Efa hitako tokoa ny fahorian'ny oloko izay any Egypta ary efa reko ny fitarainany noho ny ataon'ny mpampiasa azy; eny fantatro ny alahelony dia efa nidina Aho izao hamonjy azy amin'ny tanan'ny egyptiana ka hitondra azy hiakatra hiala amin'izany tany izany ho any amin'izay tany soa sy malalaka; dia any amin'izay tany tondra-dronono sy tantely; any amin'ny tanin'ny Kananita sy ny Hetita sy ny Amorita sy ny Perizita sy ny Hivita ary ny Jebosita.  
