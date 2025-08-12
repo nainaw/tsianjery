@@ -1,4 +1,4 @@
-## <span style="color: red;">2025 Telovolana III</span>
+## <span style="color: blue;">2025 Telovolana III</span>
 # EKSODOSY
 ### 1. Fampahoriana: ny tontolon-kevitra sy ny fahaterahan'i Mosesy
 Ary ny zanak'isiraely nisento noho ny fanompoany ka nitaraina; ary niakatra tany amin'Andriamanitra ny fitarainany noho ny fanompoany. Ary Andriamanitra nandre ny fitarainany dia nahatsiaro ny fanekeny tamin'i Abrahama sy Isaka ary Jakoba. Ary Andriamanitra nijery ny zanak'Isiraely ka nahafantatra azy.  
