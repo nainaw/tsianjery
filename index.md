@@ -34,7 +34,7 @@ Hianareo efa nahita izay nataoko tamin'ny Egyptiana sy izay nitondrako anareo ta
 **Eks 19:4-6**
 
 ### 9. Miaina araka ny lalàna
-Ary hoy Jehovah tamin'ny Mosesy: Izaao no lazaonao amin'ny Zanak'Isiraely: Hianareo efa nahita fa tany an-danitra no nitenenako taminareo. Koa <span style="color: blue;font-weight:bold">aza manao andriamanitra</span> volamena ho anareo ho fanampiko.  
+Ary hoy Jehovah tamin'ny Mosesy: Izao no lazaonao amin'ny Zanak'Isiraely: Hianareo efa nahita fa tany an-danitra no nitenenako taminareo. Koa <span style="color: blue;font-weight:bold">aza manao andriamanitra</span> volamena ho anareo ho fanampiko.  
 **Eks. 20:22,23**
 
 ### 10. Ny fanekena sy ny mari-drafitry ny taberinakely
