@@ -6,23 +6,23 @@ Ary ny zanak'isiraely nisento noho ny fanompoany ka nitaraina; ary niakatra tany
 
 
 ### 2. Ilay roimemy nirehitra
-Ary hoy Jehovah: Efa hitako tokoa ny fahorian'ny oloko izay any Egypta ary efa reko ny fitarainany noho ny ataon'ny mpampiasa azy; eny fantatro ny alahelony dia efa nidina Aho izao hamonjy azy amin'ny tanan'ny egyptiana ka hitondra azy hiakatra hiala amin'izany tany izany ho any amin'izay tany soa sy malalaka; dia any amin'izay tany tondra-dronono sy tantely; any amin'ny tanin'ny Kananita sy ny Hetita sy ny Amorita sy ny Perizita sy ny Hivita ary ny Jebosita.  
+Ary hoy Jehovah: <span style="color: blue;font-weight:bold">Efa hitako</span> tokoa ny fahorian'ny oloko izay any Egypta ary efa reko ny fitarainany noho ny ataon'ny mpampiasa azy; eny fantatro ny alahelony dia efa nidina Aho izao hamonjy azy amin'ny tanan'ny egyptiana ka hitondra azy hiakatra hiala amin'izany tany izany ho any amin'izay tany soa sy malalaka; dia any amin'izay tany tondra-dronono sy tantely; any amin'ny tanin'ny Kananita sy ny Hetita sy ny Amorita sy ny Perizita sy ny Hivita ary ny Jebosita.  
 **Eks 3 : 7,8** 
 
 ### 3. Fanombohana manano sarotra
-Ary rehefa afaka izany, i Mosesy sy Arona dia nankao amin'i Farao ka niteny taminy hoe: Izao no lazain'i Jehovah Andriamanitry ny isiraely: Alefaso ny oloko mba hanao andro firavoravoana ho Ahy any an'efitra. Fa hoy Farao: Iza moa Jehovah no ekeko teny handefasako ny isiraely. Tsy fantatro Izay Jehovah ka tsy alefako ny isiraely.  
+Ary rehefa afaka izany, i Mosesy sy Arona dia nankao amin'i Farao ka niteny taminy hoe: Izao no lazain'i Jehovah Andriamanitry ny isiraely: Alefaso ny oloko mba hanao andro firavoravoana ho Ahy any an'efitra. Fa hoy Farao: <span style="color: blue;font-weight:bold">Iza moa Jehovah</span> no ekeko teny handefasako ny isiraely. Tsy fantatro Izay Jehovah ka tsy alefako ny isiraely.  
 **Eks 5 : 1,2**
 
 ### 4. Ireo loza tany Egypta
-Dia nihamafy ny fon'i Farao ka tsy mba nandefa ny zanak'isiraely izy, araka izay efa nampilazain'i Jehovah an'i Mosesy.  
+Dia <span style="color: blue;font-weight:bold">nihamafy</span> ny fon'i Farao ka tsy mba nandefa ny zanak'isiraely izy, araka izay efa nampilazain'i Jehovah an'i Mosesy.  
 **Eks 9:35**
 
 ### 5. Ny Paska
-Ary raha hanontany anareo ny zanakareo hoe : Inona no anton'izao fanompoana ataonareo izao? dia holazainareo hoe : izao dia famonoana ny paskan'i Jehovah, Izay nandalo ny tranon'ny zanak'isiraely tany Egypta, raha namely ny egyptiana Izy fa namonjy ny tao an-tranontsika. Dia niondrika ny olona ka nivavaka.  
+Ary raha hanontany anareo ny zanakareo hoe : Inona no anton'izao fanompoana ataonareo izao? dia holazainareo hoe : izao dia famonoana ny <span style="color: blue;font-weight:bold">Paskan'i Jehovah</span>, Izay nandalo ny tranon'ny zanak'isiraely tany Egypta, raha namely ny egyptiana Izy fa namonjy ny tao an-tranontsika. Dia niondrika ny olona ka nivavaka.  
 **Eks 12:26,27**
 
 ### 6. Niampita ny Ranomasina Mena
-Ary hoy Mosesy tamin'ny olona: Aza matahotra hianareo, mijanona fa ho hitanareo ny famonjen'i Jehovah izay hataony ho anareo anio. Fa ny Egyptiana izay hitanareo anio, dia tsy ho hitanareo intsony mandrakizay. Jehovah hiady ho anareo fa hianareo kosa hangina.  
+Ary hoy Mosesy tamin'ny olona: <span style="color: blue;font-weight:bold">Aza matahotra</span> hianareo, mijanona fa ho hitanareo ny famonjen'i Jehovah izay hataony ho anareo anio. Fa ny Egyptiana izay hitanareo anio, dia tsy ho hitanareo intsony mandrakizay. Jehovah hiady ho anareo fa hianareo kosa hangina.  
 **Eks 14:13,14**
 
 ### 7. Mofon'aina sy ranon'aina
