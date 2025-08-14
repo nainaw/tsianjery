@@ -26,30 +26,30 @@ Ary hoy Mosesy tamin'ny olona: <span style="color: blue;font-weight:bold">Aza ma
 **Eks 14:13,14**
 
 ### 7. Mofon'aina sy ranon'aina
-Ary hoy Jehovan tamin'i Mosesy: Mandra-pahoviana no handavanareo tsy hitandrina ny didiko sy ny lalàko? Saino fa Jehovah no nanome anareo ny Sabata, koa izany no anomezany anareo mofo ampy ho indroa andro amin'ny andro fahenina; samia mitoetra eo amin'ny fitoerany avy hianareo, ka aoka tsy hisy hiala amin'ny fitoerany amin'ny andro fahafito. Dia nitsahatra ny olona tamin'ny andro fahafito.  
+Ary hoy Jehovan tamin'i Mosesy: Mandra-pahoviana no handavanareo tsy hitandrina ny didiko sy ny lalàko? Saino fa Jehovah no nanome anareo ny Sabata, koa izany no anomezany anareo <span style="color: blue;font-weight:bold">mofo ampy</span> ho indroa andro amin'ny andro fahenina; samia mitoetra eo amin'ny fitoerany avy hianareo, ka aoka tsy hisy hiala amin'ny fitoerany amin'ny andro fahafito. Dia nitsahatra ny olona tamin'ny andro fahafito.  
 **Eks 16:28-30**
 
 ### 8. Ny fanekena tao Sinay
-Hianareo efa nahita izay nataoko tamin'ny Egyptiana sy izay nitondrako anareo tamin'ny elatry ny voromahery ary ny nampankanesako anareo ho aty amiko. Koa ankehitriny, raha hihaino ny feoko tokoa hianareo ka hitandrina ny fanekeko, dia ho rakitra soa ho Ahy mihoatra noho ny firenena rehetra hianareo; fa Ahy ny tany rehetra. Dia ho fanjaka-mpisorona sy ho firenena masina ho Ahy hianareo.  
+Hianareo efa nahita izay nataoko tamin'ny Egyptiana sy izay nitondrako anareo tamin'ny elatry ny voromahery ary ny nampankanesako anareo ho aty amiko. Koa ankehitriny, raha hihaino ny feoko tokoa hianareo ka <span style="color: blue;font-weight:bold">hitandrina ny fanekeko</span>, dia ho rakitra soa ho Ahy mihoatra noho ny firenena rehetra hianareo; fa Ahy ny tany rehetra. Dia ho fanjaka-mpisorona sy ho firenena masina ho Ahy hianareo.  
 **Eks 19:4-6**
 
 ### 9. Miaina araka ny lalàna
-Ary hoy Jehovah tamin'ny Mosesy: Izaao no lazaonao amin'ny Zanak'Isiraely: Hianareo efa nahita fa tany an-danitra no nitenenako taminareo. Koa aza manao andriamanitra volamena ho anareo ho fanampiko.  
+Ary hoy Jehovah tamin'ny Mosesy: Izaao no lazaonao amin'ny Zanak'Isiraely: Hianareo efa nahita fa tany an-danitra no nitenenako taminareo. Koa <span style="color: blue;font-weight:bold">aza manao andriamanitra</span> volamena ho anareo ho fanampiko.  
 **Eks. 20:22,23**
 
 ### 10. Ny fanekena sy ny mari-drafitry ny taberinakely
-Dia tonga Mosesy ka nanambara tamin'ny olona ny teny rehetra izay nataon'i Jehovah sy ny fitsipika rehetra. Ary namaly indray miredona ny olona rehetra ka nanao hoe: Ny teny rehetra izay nolazain'i Jehovah dia hataonay.  
+Dia tonga Mosesy ka nanambara tamin'ny olona ny teny rehetra izay nataon'i Jehovah sy ny fitsipika rehetra. Ary namaly indray miredona ny olona rehetra ka nanao hoe: Ny teny rehetra izay nolazain'i Jehovah dia <span style="color: blue;font-weight:bold">hataonay</span>.  
 **Eks 24:3**
 
 ### 11. Fihemorana sy fanelanelanana
-Ary Mosesy dia niverina ho ao amin'i Jehovah ka nanao hoe: Indrisy! Efa nanao fahotana lehibe ity firenena ity ka efa nanao andriamani-bolamena ho azy. Ary ankehitriny, enga anie ka hamela ny fahotany Hianao! Fa raha tsy izany, mifona aminao aho, vonoy eo amin'ny bokinao izay nosoratanao ny anarako.  
+Ary Mosesy dia niverina ho ao amin'i Jehovah ka nanao hoe: Indrisy! Efa nanao fahotana lehibe ity firenena ity ka efa nanao andriamani-bolamena ho azy. Ary ankehitriny, <span style="color: blue;font-weight:bold">enga anie ka hamela</span> ny fahotany Hianao! Fa raha tsy izany, mifona aminao aho, vonoy eo amin'ny bokinao izay nosoratanao ny anarako.  
 **Eks 32:31,32**
 
 ### 12. Mba ampahitao ny voninahitrao aho
-Ary Jehovah nandalo teo anatrehany ka niantso hoe: Jehovah, Jehovah, Andriamanitra mamindra fo sy miantra, mahari-po sady be famindrampo sy fahamarinana, mitahiry famindramp o ho an'ny olona arivo mandimby, mamela heloka sy fahadisoana ary fahotana, kanefa tsy mety manamarina ny meloka, fa mamaly ny heloky ny ray amin'ny zanaka sy ny zafy hatramin'ny zafiafy sy ny zafindohalika.  
+Ary Jehovah nandalo teo anatrehany ka niantso hoe: Jehovah, Jehovah, <span style="color: blue;font-weight:bold">Andriamanitra mamindra fo</span> sy miantra, mahari-po sady be famindrampo sy fahamarinana, mitahiry famindramp o ho an'ny olona arivo mandimby, mamela heloka sy fahadisoana ary fahotana, kanefa tsy mety manamarina ny meloka, fa mamaly ny heloky ny ray amin'ny zanaka sy ny zafy hatramin'ny zafiafy sy ny zafindohalika.  
 **Eks 34:6,7**
 
 ### 13. Ny tabernakely
-Ary ny rahona nanarona ny trano-lay fihaonana, ary ny voninahitr'i Jehovah nameno ny tabernakely (...) Fa ny rahon'i Jehovah dia teo ambonin'ny tabernakely nony andro, ary nisy afo teo aminy nony alina, teo imason'ny tranak'Isiraely rehetra, tamin'ny nandehananany rehetra.  
+Ary ny rahona nanarona ny trano-lay fihaonana, ary <span style="color: blue;font-weight:bold">ny voninahitr'i Jehovah nameno ny tabernakely</span> (...) Fa ny rahon'i Jehovah dia teo ambonin'ny tabernakely nony andro, ary nisy afo teo aminy nony alina, teo imason'ny tranak'Isiraely rehetra, tamin'ny nandehananany rehetra.  
 **Eks. 40:34,38**
 
