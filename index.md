@@ -22,7 +22,7 @@ Ary raha hanontany anareo ny zanakareo hoe : Inona no anton'izao fanompoana atao
 **Eks 12:26,27**
 
 ### 6. Niampita ny Ranomasina Mena
-Ary hoy Mosesy tamin'ny olona: Aza matahotra hianareo, mijanona fa ho hitanareo ny famonjen'i Jehovah izay hataony ho anareo anio. Fa ireo Egyptiana hitanareo anio dia tsy ho hitanareo intsony mandrakizay. Jehovah hiady ho anareo fa hianareo kosa hangina.  
+Ary hoy Mosesy tamin'ny olona: Aza matahotra hianareo, mijanona fa ho hitanareo ny famonjen'i Jehovah izay hataony ho anareo anio. Fa ny Egyptiana izay hitanareo anio, dia tsy ho hitanareo intsony mandrakizay. Jehovah hiady ho anareo fa hianareo kosa hangina.  
 **Eks 14:13,14**
 
 ### 7. Mofon'aina sy ranon'aina
