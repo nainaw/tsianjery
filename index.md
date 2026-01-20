@@ -1,28 +1,28 @@
-# LESONA MOMBA NY FINOANA AO AMIN'NY BOKIN'I JOSOA
-
-### 1. Ny tsiambaratelon'ny fahombiazana
-"Koa mahereza sy matanjaha tsara hianao, hitandremanao hanao **araka ny lalana** rehetra, izay nandidian'i Mosesy mpanompoko anao; aza miala aminy, na ho amin'ny ankavanana, na ho amin'ny ankavia, mba hambinina hianao amin'izay rehetra alehanao." **Jos. 1:7**
-### 2. Fahasoavana mahatalanjona
-"Finoana no **tsy nahafaty** an-dRahaba janga niaraka tamin'ny tsy nino, satria nandray ny mpisafo-tany tamin'ny fihavanana izy." - **Heb. 11:31**
-### 3. Tsangambaton'ny fahasoavana
-"Fa nataon'i Jehovah Andriamanitrareo maina ny falehan'ny rano Jordana teo anoloanareo mandra-pitanareo, dia tahaka ny nataon'i Jehovah Andriamanitrareo tamin'ny Ranomasina Mena, izay nataony maina teo anoloantsika mandra-pitantsika, mba ho fantatry ny firenena rehetra ambonin'ny tany fa mahery ny tànan'i Jehovah, ary mba hatahorany an'i Jehovah Andriamanitrareo mandrakizay." - **Jos. 4:23,24**
-### 4. Ilay ady ao ambadiky ny ady rehetra
-"Ary tsy nisy andro tahaka izany, na tany alohany na tato aoriany, izay nihainoan'i Jehovah ny feon'olona, fa **Jehovah niady** ho an'ny Isiraely." **Jos 10:14**
-### 5. Andriamanitra no miady ho anareo
-"Ary ireo mpanjaka rehetra ireo sy ny taniny dia azon'i Josoa indray mandeha, **satria Jehovah** Andriamanitry ny Isiraely no niady ho an'ny Isiraely" **Jos 10:42**
-### 6. Fahavalo ao anatiny
-"Izaho Jehovah no **mpandinika ny fo** sy mpamantatra ny voa, mba hanome ny olona rehetra araka ny alehany avy, dia araka ny vokatry ny asany" **Jer 17:10**
-### 7. Fahatokiana tanteraka : fiankohofana ao anatin'ny ady
-"Fa **katsaho aloha** ny fanjakany sy ny fahamarinany dia hanampy ho anareo izany" **Mat 6:33**
-### 8. Josoa sy Kaleba : olo-malazan'ny finona
-"Tsarovy ny mpitondra anareo, izay efa nitory ny Tenin'Andriamanitra taminareo. Hevero ny niafaran'ny fiainany ka **araho ny finoany**" **Heb 13:7**
-### 9. Mpandova ny Teny fikasana, mpifatotra manana ny fanantenana
-"Miverena ho amin'ny fiarovana mafy, hianareo mpifatotra **manana ny fanantenana**; anio no hanambarako hoe: hanonitra roa heny ho anao Aho" **Zak 9:12**
-### 10. Ilay tena Josoa
-"Ary izany dia nanjo azy mba ho anatra, sady voasoratra izany ho **fananarana** antsika izay niaran'ny faran'izao tontolo izao" **1 Kor 10:11**
-### 11. Monina amin'ny tany
-"Ny famaliana mora **mampianina** ny fahatezerana mafy, fa ny teny maharary mahatonga fahasosorana" **Ohab 15:1**
-### 12. Mahatoky Andriamanitra
-"Tsy nisy latsaka na dia kely akory aza ny zava-tsoa rehetra izay nolazain'i Jehovah tamin'ny taranak'Isiraely, fa tanteraka avokoa izany rehetra izany" **Jos 21:45**
-### 13. Fidionareo anio
-"Nefa raha tsy sitrakareo ny hanompo an'i Jehovah dia fidionareo anio ary izay hotompoinareo ... fa raha izaho sy ny ankohonako kosa dia hanompo an'i Jehovah izahay" **Jos 24:15**
+# MAMPIFANDRAY NY LANITRA SY NY TANY
+### Kristy ao amin'ny Filipiana sy ny Kolosiana
+#### 1. Enjehina, nefa tsy nafoy
+Mifalia mandrakariva amin'ny Tompo, hoy izaho indray mifalia **Fil 4:4**
+#### 2. Anton'ny fisaorana sy ny fivavahana
+Ary matoky indrindra aho fa Izay nanomboka asa tsara tao anatinareo no hahatanteraka izany mandra-pihavin'ny andron'i Jesosy Kristy **Fil 1:6**
+#### 3. Fiainana sy fahafatesana
+Fa Kristy no antony hahavelomako, ary ny fahafatesana no hahazoako tombony **Fil 1:21**
+#### 4. Firaisan-tsaina ao anatin'ny fanetren-tena
+Dia tanteraho ny fifaliako, mba hiraisanareo saina, miray fitiavana, miray fo, miray hevitra. **Fil 2:2**
+#### 5. Mamirapiratra ao anatin'ny alina
+Ataovy ny zavatra rehetra amin'ny tsy fimonomononana sy ny tsy fisalalalana, mba ho tsy manan-tsiny sady tsy misy fitaka hianareo, dia zanak'Andriamanitra tsy manana adidy eo amin'ny firenena meloka sy maditra, izay isehoanareo tahaka ny fanazavana eo amin'izao tontolo izao **Fil 2:14,15**
+#### 6. Mitoky amin'i Kristy irery ihany
+Eny, mba ho fantatro Izy sy ny herin'ny fitsanganany tamin'ny maty ary ny fiombonana amin'ny fijaliany ka hampitovina amin'ny endriky ny fahafatesany, raha mba misy hahatratrarako ny fitsanganana amin'ny maty. **Fil 3:10,11**
+#### 7. Olom-pirenen'ny lanitra
+Aza manahy na inona na inona; fa aoka ny fivavahana sy ny fifonana mbamin'ny fisaorana no ho entinareo manambara ny fangatahanareo amin'Andriamanitra amin'ny zavatra rehetra **Fil 4:6**
+#### 8. I Kristy, ambonin'ny zavatra rehetra
+Izy no endrik'Andriamanitra tsy hita, ny lahimatoa talohan'izao zavatra ary rehetra izao; fa tao Aminy no nahariana ny zavatra rehetra any an-danitra sy ety ambonin'ny tany, dia ny hita sy ny tsy hita, na fiandrianana, na fanjakana, na fanapahana, na fahefana, Izy no nahariana ny zavatra rehetra, sady ho Azy izany; ary Izy no talohan'ny zavatra rehetra, sady ao aminy no aharetan'ny zavatra rehetra **Kol 1:15-17**
+#### 9. Fampihavanana sy fanantenana
+Izay tsy nahalala ota dia efa nataony ota hamonjy antsika, mba ho tonga fahamarinan'Andriamanitra ao Aminy kosa isika **2 Kor 5:21**
+#### 10. Tanteraka ao amin'i Kristy
+Koa aza avela hisy hitsara anareo ny amin'ny fihinana, na ny fisotro, na ny andro firavoravoana, na ny voaloham-bolana, na ny Sabata; aloky ny zavatra ho avy ireny, fa ny tenany dia an'i Kristy **Kol 2: 16,17**
+#### 11. Fiainana miaraka amin'i Kristy
+Ary aoka ho ambonin'izany rehetra izany ny fitiavana fa fehin'ny fahatanterahana izany **Kol 3:14**
+#### 12. Miara-monina
+Aoka ny fiteninareo ho amin'ny fahasoavana mandrakariva, ho mamy sira, mba ho fantatrareo izay tokony havalinareo ny olona rehetra **Kol 4:6**
+#### 13. Hatoky tsara amin'izay rehetra mety ho sitrapon'Andriamanitra
+Misaora amin'ny zavatra rehetra; fa izany no sitrapon'Andriamanitra ao amin'i Kristy Jesosy ho anareo. **1 Tes 5:18**
