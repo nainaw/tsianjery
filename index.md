@@ -4,11 +4,11 @@ Tongasoa!
 
 | Telovolana I | Telovolana II |
 | :--- | :--- |
-| Telovolana I: <br> Mampifandray ny Lanitra sy ny tany: <br> Kristy ao amin'ny Filipiana sy ny Kolosiana <br> [**Sokafy Telovolana I**](./TelovolanaI.md) | Telovolana II <br><br> [**Sokafy Telovolana II**](./TelovolanaII.md) |
+| Telovolana I: <br> Mampifandray ny Lanitra sy ny tany: <br> Kristy ao amin'ny Filipiana sy ny Kolosiana <br> [**Sokafy Telovolana I**](./TelovolanaI.md) | Telovolana II <br> [**Sokafy Telovolana II**](./TelovolanaII.md) |
 
 | Telovolana III | Telovolana IV |
 | :--- | :--- |
-| Telovolana III [**Sokafy Telovolana III**](./TelovolanaIII.md) | Telovolana IV. [**Sokafy Telovolana IV**](./TelovolanaIV.md) |
+| Telovolana III <br> [**Sokafy Telovolana III**](./TelovolanaIII.md) | Telovolana IV. <br> [**Sokafy Telovolana IV**](./TelovolanaIV.md) |
 
 ---
 *Last updated: January 2026*
