@@ -2,7 +2,7 @@
 #### 1. Miatrika ny tena zava-misy marina
 Tahaka ny nitiavan'ny Ray Ahy no nitiavako anareo; tomoera amin'ny fitiavako hianareo **Jao 15:9**
 #### 2. Miatrika ny tena zava-misy marina
-Ary izao no fiainana mandrakizay, dia ny mahafantatra Anao, Izay Andriamanitra tokana sady marina, sy Jesosy Kristy, Izay nirahinao **Jao 17:3**
+Ary izao no fiainana mandrakizay, dia ny mahafantatra Anao, Izay Andriamanitra tokana sady marina, sy Jesosy Kristy, Izay efa nirahinao **Jao 17:3**
 #### 3. Mahafantatra an'Andriamanitra
 Fa izay rehetra manandra-tena no haetry; ary izay manetry tena no hasandratra **Lio 14:11**
 #### 4. Avonavona na fanetren-tena
