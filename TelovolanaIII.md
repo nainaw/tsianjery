@@ -1,28 +1,27 @@
-# MAMPIFANDRAY NY LANITRA SY NY TANY
-### Kristy ao amin'ny Filipiana sy ny Kolosiana
-#### 1. Enjehina, nefa tsy nafoy
-Mifalia mandrakariva amin'ny Tompo, hoy izaho indray mifalia **Fil 4:4**
-#### 2. Anton'ny fisaorana sy ny fivavahana
-Ary matoky indrindra aho fa Izay nanomboka asa tsara tao anatinareo no hahatanteraka izany mandra-pihavin'ny andron'i Jesosy Kristy **Fil 1:6**
-#### 3. Fiainana sy fahafatesana
-Fa Kristy no antony hahavelomako, ary ny fahafatesana no hahazoako tombony **Fil 1:21**
-#### 4. Firaisan-tsaina ao anatin'ny fanetren-tena
-Dia tanteraho ny fifaliako, mba hiraisanareo saina, miray fitiavana, miray fo, miray hevitra. **Fil 2:2**
-#### 5. Mamirapiratra ao anatin'ny alina
-Ataovy ny zavatra rehetra amin'ny tsy fimonomononana sy ny tsy fisalalalana, mba ho tsy manan-tsiny sady tsy misy fitaka hianareo, dia zanak'Andriamanitra tsy manana adidy eo amin'ny firenena meloka sy maditra, izay isehoanareo tahaka ny fanazavana eo amin'izao tontolo izao **Fil 2:14,15**
-#### 6. Mitoky amin'i Kristy irery ihany
-Eny, mba ho fantatro Izy sy ny herin'ny fitsanganany tamin'ny maty ary ny fiombonana amin'ny fijaliany ka hampitovina amin'ny endriky ny fahafatesany, raha mba misy hahatratrarako ny fitsanganana amin'ny maty. **Fil 3:10,11**
-#### 7. Olom-pirenen'ny lanitra
-Aza manahy na inona na inona; fa aoka ny fivavahana sy ny fifonana mbamin'ny fisaorana no ho entinareo manambara ny fangatahanareo amin'Andriamanitra amin'ny zavatra rehetra **Fil 4:6**
-#### 8. I Kristy, ambonin'ny zavatra rehetra
-Izy no endrik'Andriamanitra tsy hita, ny lahimatoa talohan'izao zavatra ary rehetra izao; fa tao Aminy no nahariana ny zavatra rehetra any an-danitra sy ety ambonin'ny tany, dia ny hita sy ny tsy hita, na fiandrianana, na fanjakana, na fanapahana, na fahefana, Izy no nahariana ny zavatra rehetra, sady ho Azy izany; ary Izy no talohan'ny zavatra rehetra, sady ao aminy no aharetan'ny zavatra rehetra **Kol 1:15-17**
-#### 9. Fampihavanana sy fanantenana
-Izay tsy nahalala ota dia efa nataony ota hamonjy antsika, mba ho tonga fahamarinan'Andriamanitra ao Aminy kosa isika **2 Kor 5:21**
-#### 10. Tanteraka ao amin'i Kristy
-Koa aza avela hisy hitsara anareo ny amin'ny fihinana, na ny fisotro, na ny andro firavoravoana, na ny voaloham-bolana, na ny Sabata; aloky ny zavatra ho avy ireny, fa ny tenany dia an'i Kristy **Kol 2: 16,17**
-#### 11. Fiainana miaraka amin'i Kristy
-Ary aoka ho ambonin'izany rehetra izany ny fitiavana fa fehin'ny fahatanterahana izany **Kol 3:14**
-#### 12. Miara-monina
-Aoka ny fiteninareo ho amin'ny fahasoavana mandrakariva, ho mamy sira, mba ho fantatrareo izay tokony havalinareo ny olona rehetra **Kol 4:6**
-#### 13. Hatoky tsara amin'izay rehetra mety ho sitrapon'Andriamanitra
-Misaora amin'ny zavatra rehetra; fa izany no sitrapon'Andriamanitra ao amin'i Kristy Jesosy ho anareo. **1 Tes 5:18**
+# 1 sy 2 KORINTIANINA
+#### 1. Ny asa fanompoan'i Paoly tao Korinto
+Ary ny Tompo niteny tamin’ i Paoly tamin’ ny fahitana nony alina ka nanao hoe: Aza matahotra, fa mitenena ihany, ka aza mangìna; fa Izaho momba anao, ary tsy hisy olona hihazona anao hanisy ratsy anao; fa manana olona maro amin’ ity tanàna ity Aho. **Asa. 18:9,10**
+#### 2. Ny teny ny amin'ny hazo fijaliana
+Fa ny teny ny amin’ ny hazo fijaliana dia fahadalana amin’ izay ho very, fa herin’ Andriamanitra kosa amintsika izay hovonjena. **1 Kor. 1:18**
+#### 3. Iray ao amin'I Kristy
+Ary mananatra anareo aho, ry rahalahy, amin’ ny anaran’ i Jesosy Kristy Tompontsika, mba hiray teny ianareo rehetra, ka tsy hisy fisarahana eo aminareo, fa mba ho tafakambana tsara ianareo hiray saina sy hevitra. **1 Kor 1:10**
+#### 4. Fahotana tao amin'ny fiangonana
+Ahoana ary? Moa tsy fantatrareo fa ny tenanareo dia tempolin’ ny Fanahy Masìna, Izay ao anatinareo sady efa azonareo tamin’ Andriamanitra? ka tsy tompon’ ny tenanareo ianareo. Fa olom-boavidy ianareo, koa dia mankalazà an’ Andriamanitra amin’ ny tenanareo. **1 Kor 6:19,20**
+#### 5. Ho voninahitr'Andriamanitra izany rehetra izany
+Koa amin’ izany, na mihinana na misotro ianareo, na inona na inona ataonareo, dia ataovy ho voninahitr’ Andriamanitra izany rehetra izany. **1 Kor 10:31**
+#### 6. Ny fanomezam-pahasoavana
+Miezaha mitady ny fitiavana, nefa maniria fatratra ny zava-panahy koa, indrindra fa ny haminany. **1 Kor 14:1**
+#### 7. Ny atao hoe fitiavana
+Ary ankehitriny dia ireto telo ireto no mitoetra: ny finoana, ny fanantenana, ny fitiavana: fa ny fitiavana no lehibe amin’ ireo. **1 Kor 13:13**
+#### 8. Ny herin'ny fitsanganan'I Kristy tamin'ny maty
+Ary raha tsy natsangana Kristy, dia foana ny toriteninay, ary foana koa ny finoanareo (...) ary raha tsy natsangana Kristy, dia foana ny finoanareo; ary mbola ao amin’ ny fahotanareo ihany ianareo; **1 Kor 15:14,17**
+#### 9. Fanompoana asesiky ny fitiavana
+Fa tamin’ ny haben’ ny fahoriana sy ny alahelon’ ny foko no nanoratako taminareo tamin’ ny ranomaso be, tsy ny hampalahelovana anareo, fa ny mba hahafantaranareo ny fitiavana izay itiavako anareo indrindra. **2 Kor 2:4**
+#### 10. Ny tena fanompoana kristianina
+Voageja manodidina izahay, nefa tsy terỳ; very hevitra, nefa tsy mamoy fo; enjehina, nefa tsy nafoy, potraka, nefa tsy maty; mitondra ny fahafatesan’i Jesosy mandrakariva ao amin’ ny tena izahay, mba haseho ao amin’ ny tenanay koa ny fiainan’ i Jesosy. **2Kor4:8-10**
+#### 11. Fitandremam-pananana sy Iraka
+Fa fantatrareo ny fahasoavan’ i Jesosy Kristy Tompontsika, fa na dia nanan-karena aza Izy, dia tonga malahelo noho ny aminareo, mba hampanan-karena anareo ny alahelony. **2Kor8:9**
+#### 12. Ny amin'ireo mpampianatra sandoka
+(fa tsy avy amin’ ny nofo ny fiadian’ ny tafikay, fa mahery amin’ Andriamanitra handrava fiarovana mafy); **2Kor10:4**
+#### 13. Fahasoavana, fitiavana, ary firaisana
+Ho aminareo rehetra anie ny fahasoavan’ i Jesosy Kristy Tompo sy ny fitiavan’ Andriamanitra ary ny firaisana amin’ ny Fanahy Masìna. **2Kor13:13**
