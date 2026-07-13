@@ -1,6 +1,9 @@
 ---
 title: "MITOMBO AMIN'NY FIFANDRAISANA AMIN'ANDRIAMANITRA"
 subtitle:
+
+previous: /TelovolanaI.html
+next: /TelovolanaIII.html
 ---
 
 #### 1. Miatrika ny tena zava-misy marina
