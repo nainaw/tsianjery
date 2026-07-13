@@ -3,14 +3,53 @@
 
 # Tongasoa!
 
-Tongasoa eto amin'ny bokin'ny **Tsianjery 52 Taona 2026**.
+### Tsianjery 52 Taona 2026
 
-| Telovolana | Lohahevitra | Sokafy |
-|:------------|:------------|:-------|
-| **I** | Mampifandray ny Lanitra sy ny Tany: Kristy ao amin'ny Filipiana sy ny Kolosiana | [📖 Sokafy](./TelovolanaI.html) |
-| **II** | Mitombo amin'ny Fifandraisana amin'Andriamanitra: Kristy ao amin'ny Filipiana sy ny Kolosiana | [📖 Sokafy](./TelovolanaII.html) |
-| **III** | *(Ampidiro eto ny lohahevitra)* | [📖 Sokafy](./TelovolanaIII.html) |
-| **IV** | *(Ampidiro eto ny lohahevitra)* | [📖 Sokafy](./TelovolanaIV.html) |
+Safidio ny telovolana tianao hovakiana.
+
+<div class="quarter-card">
+
+## 📖 Telovolana I
+
+Mampifandray ny Lanitra sy ny Tany
+
+Kristy ao amin'ny Filipiana sy ny Kolosiana
+
+<a class="button" href="TelovolanaI.html">
+
+Sokafy →
+
+</a>
+## 📖 Telovolana II
+
+Mitombo amin'ny fifandraisana amin'Andriamanitra
+
+<a class="button" href="TelovolanaII.html">
+
+Sokafy →
+
+</a>
+## 📖 Telovolana III
+
+1 sy 2 Korintianina
+
+<a class="button" href="TelovolanaIII.html">
+
+Sokafy →
+
+</a>
+## 📖 Telovolana IV
+
+Mbola ho avy
+
+<a class="button" href="TelovolanaIV.html">
+
+Sokafy →
+
+</a>
+
+
+</div>
 
 ---
 
