@@ -2,7 +2,11 @@
 title: Home
 ---
 
-# 🌿 Tsianjery 52 Taona 2026
+<h1>
+    <a href="{{ '/' | relative_url }}" class="site-title">
+        🌿 Tsianjery 52 Taona 2026
+    </a>
+</h1>
 
 Tongasoa eto amin'ny bokin'ny Tsianjery 52 Taona 2026.
 
