@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # 🌿 Tsianjery 52 Taona 2026
 
 Tongasoa eto amin'ny bokin'ny Tsianjery 52 Taona 2026.
