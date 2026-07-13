@@ -2,6 +2,7 @@
 title: "MAMPIFANDRAY NY LANITRA SY NY TANY"
 subtitle: "Kristy ao amin'ny Filipiana sy ny Kolosiana"
 ---
+
 #### 1. Enjehina, nefa tsy nafoy
 Mifalia mandrakariva amin'ny Tompo, hoy izaho indray mifalia **Fil 4:4**
 #### 2. Anton'ny fisaorana sy ny fivavahana
