@@ -223,4 +223,17 @@ main{
     background:#20431c;
 
 }
+.quarter{
+
+    transition:.25s;
+
+}
+
+.quarter:hover{
+
+    transform:translateY(-6px);
+
+    box-shadow:0 8px 20px rgba(0,0,0,.15);
+
+}
 }
