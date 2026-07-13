@@ -30,3 +30,6 @@ Fa fantatrareo ny fahasoavan’ i Jesosy Kristy Tompontsika, fa na dia nanan-kar
 (fa tsy avy amin’ ny nofo ny fiadian’ ny tafikay, fa mahery amin’ Andriamanitra handrava fiarovana mafy); **2Kor10:4**
 #### 13. Fahasoavana, fitiavana, ary firaisana
 Ho aminareo rehetra anie ny fahasoavan’ i Jesosy Kristy Tompo sy ny fitiavan’ Andriamanitra ary ny firaisana amin’ ny Fanahy Masìna. **2Kor13:13**
+<p style="text-align:center;">
+<a href="#">↑ Miverina any an-tampony</a>
+</p>
