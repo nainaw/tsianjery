@@ -51,9 +51,15 @@ body{
 
 }
 
+.navigation a{
+
+transition:.3s;
+
+}
+
 .navigation a:hover{
 
-    background:#20431c;
+transform:translateY(-2px);
 
 }
 
