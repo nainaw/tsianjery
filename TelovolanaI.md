@@ -2,7 +2,7 @@
 title: "MAMPIFANDRAY NY LANITRA SY NY TANY"
 subtitle: "Kristy ao amin'ny Filipiana sy ny Kolosiana"
 
-previous: /
+previous:
 next: /TelovolanaII.html
 ---
 
