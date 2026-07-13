@@ -1,4 +1,6 @@
 ---
+title: 1 sy 2 Korintianina
+subtitle:
 previous: /TelovolanaIII.html
 next:
 ---
