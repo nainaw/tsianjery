@@ -28,14 +28,13 @@
         <a href="{{ '/' | relative_url }}">🏠 Home</a>
 
         {% if page.previous %}
-            <a href="{{ page.previous }}">◀ Previous</a>
+            <a href="{{ page.previous | relative_url }}">◀ Previous</a>
         {% else %}
             <span></span>
         {% endif %}
 
         {% if page.next %}
-            <a href="{{ page.next }}">Next ▶</a>
-        {% else %}
+            <a href="{{ page.next | relative_url }}">Next ▶</a>        {% else %}
             <span></span>
         {% endif %}
 
@@ -66,14 +65,12 @@
     <a href="{{ '/' | relative_url }}">🏠 Home</a>
 
     {% if page.previous %}
-        <a href="{{ page.previous }}">◀ Previous</a>
-    {% else %}
+        <a href="{{ page.previous | relative_url }}">◀ Previous</a>    {% else %}
         <span></span>
     {% endif %}
 
     {% if page.next %}
-        <a href="{{ page.next }}">Next ▶</a>
-    {% else %}
+        <a href="{{ page.next | relative_url }}">Next ▶</a>    {% else %}
         <span></span>
     {% endif %}
 
