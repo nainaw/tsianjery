@@ -1,6 +1,9 @@
 ---
 title: "MBOLA MIANDRY OVAINA REHEFA FANTATRA"
 subtitle: 
+
+previous: /TelovolanaIII.html
+next: /
 ---
 #### 1. Enjehina, nefa tsy nafoy
 Mifalia mandrakariva amin'ny Tompo, hoy izaho indray mifalia **Fil 4:4**
