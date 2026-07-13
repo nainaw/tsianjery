@@ -13,11 +13,11 @@ Safidio ny telovolana tianao hovakiana.
 
 <div class="quarter">
 
-## 📖 Telovolana I
+<h2>📖 Telovolana I</h2>
 
-**Mampifandray ny Lanitra sy ny Tany**
+<h3>Mampifandray ny Lanitra sy ny Tany
 
-Kristy ao amin'ny Filipiana sy ny Kolosiana
+Kristy ao amin'ny Filipiana sy ny Kolosiana</h3>
 
 <a class="button" href="TelovolanaI.html">Sokafy</a>
 
@@ -25,11 +25,9 @@ Kristy ao amin'ny Filipiana sy ny Kolosiana
 
 <div class="quarter">
 
-## 📖 Telovolana II
+<h2>📖 Telovolana II</h2>
 
-**Mitombo amin'ny Fifandraisana amin'Andriamanitra**
-
-Kristy ao amin'ny Filipiana sy ny Kolosiana
+<h3>Mitombo amin'ny fifandraisana amin'Andriamanitra</h3>
 
 <a class="button" href="TelovolanaII.html">Sokafy</a>
 
@@ -37,9 +35,9 @@ Kristy ao amin'ny Filipiana sy ny Kolosiana
 
 <div class="quarter">
 
-## 📖 Telovolana III
+<h2>📖 Telovolana III</h2>
 
-*(Ampidiro eto ny lohahevitra)*
+<h3>1 sy 2 Korintianina</h3>
 
 <a class="button" href="TelovolanaIII.html">Sokafy</a>
 
@@ -47,11 +45,11 @@ Kristy ao amin'ny Filipiana sy ny Kolosiana
 
 <div class="quarter">
 
-## 📖 Telovolana IV
+<h2>📖 Telovolana IV</h2>
 
-*(Ampidiro eto ny lohahevitra)*
+<h3>Mbola ho avy</h3>
 
-<a class="button" href="TelovolanaIV.html">Sokafy</a>
+<a class="button" href="TelovolanaI.html">Sokafy</a>
 
 </div>
 
