@@ -198,6 +198,17 @@ main{
 
 }
 
+.quarter h3{
+    color:#2d5a27;
+    margin:15px 0 10px;
+    font-size:1.2rem;
+}
+
+.quarter p{
+    color:#555;
+    margin-bottom:20px;
+}
+
 .button{
 
     display:inline-block;
