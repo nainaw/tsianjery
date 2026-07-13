@@ -20,6 +20,7 @@ Kristy ao amin'ny Filipiana sy ny Kolosiana
 Sokafy →
 
 </a>
+
 ## 📖 Telovolana II
 
 Mitombo amin'ny fifandraisana amin'Andriamanitra
@@ -29,6 +30,7 @@ Mitombo amin'ny fifandraisana amin'Andriamanitra
 Sokafy →
 
 </a>
+
 ## 📖 Telovolana III
 
 1 sy 2 Korintianina
@@ -38,6 +40,7 @@ Sokafy →
 Sokafy →
 
 </a>
+
 ## 📖 Telovolana IV
 
 Mbola ho avy
