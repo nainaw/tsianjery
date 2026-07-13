@@ -25,16 +25,17 @@
 
     <nav class="navigation">
 
-        <a href="{{ '/' | relative_url }}">🏠 Home</a>
+        <a href="{{ '/' | relative_url }}">🏠 Fandraisana</a>
 
         {% if page.previous %}
-            <a href="{{ page.previous | relative_url }}">◀ Previous</a>
+            <a href="{{ page.previous | relative_url }}">◀ Teo aloha</a>
         {% else %}
             <span></span>
         {% endif %}
 
         {% if page.next %}
-            <a href="{{ page.next | relative_url }}">Next ▶</a>        {% else %}
+            <a href="{{ page.next | relative_url }}">Manaraka ▶</a>        
+        {% else %}
             <span></span>
         {% endif %}
 
@@ -62,15 +63,17 @@
 
 <nav class="navigation">
 
-    <a href="{{ '/' | relative_url }}">🏠 Home</a>
+    <a href="{{ '/' | relative_url }}">🏠 Fandraisana</a>
 
     {% if page.previous %}
-        <a href="{{ page.previous | relative_url }}">◀ Previous</a>    {% else %}
+        <a href="{{ page.previous | relative_url }}">◀ Teo aloha</a>    
+    {% else %}
         <span></span>
     {% endif %}
 
     {% if page.next %}
-        <a href="{{ page.next | relative_url }}">Next ▶</a>    {% else %}
+        <a href="{{ page.next | relative_url }}">Manaraka ▶</a>    
+    {% else %}
         <span></span>
     {% endif %}
 
