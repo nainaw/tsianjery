@@ -3,7 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
+
+    <title>
+        {% if page.title %}
+            {{ page.title }} | Tsianjery 52 Taona 2026
+        {% else %}
+            Tsianjery 52 Taona 2026
+        {% endif %}
+    </title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
@@ -11,20 +18,36 @@
 <body>
 
 <header>
-    <h1>🌿 Tsianjery 52 Taona 2026</h1>
 
-    <nav class="topnav">
+    <div class="site-header">
+        <h1>🌿 Tsianjery 52 Taona 2026</h1>
+    </div>
+
+    <nav class="navigation">
+
         <a href="{{ '/' | relative_url }}">🏠 Home</a>
+
+        {% if page.previous %}
+            <a href="{{ page.previous }}">◀ Previous</a>
+        {% else %}
+            <span></span>
+        {% endif %}
+
+        {% if page.next %}
+            <a href="{{ page.next }}">Next ▶</a>
+        {% else %}
+            <span></span>
+        {% endif %}
+
     </nav>
+
 </header>
 
 <main>
 
 {% unless page.url == "/" %}
 
-{% if page.title %}
 <h1>{{ page.title }}</h1>
-{% endif %}
 
 {% if page.subtitle %}
 <h2>{{ page.subtitle }}</h2>
@@ -36,12 +59,32 @@
 
 </main>
 
-<hr>
-
 <footer>
-    <p style="text-align:center;">
-        © 2026 Tsianjery
-    </p>
+
+<nav class="navigation">
+
+    <a href="{{ '/' | relative_url }}">🏠 Home</a>
+
+    {% if page.previous %}
+        <a href="{{ page.previous }}">◀ Previous</a>
+    {% else %}
+        <span></span>
+    {% endif %}
+
+    {% if page.next %}
+        <a href="{{ page.next }}">Next ▶</a>
+    {% else %}
+        <span></span>
+    {% endif %}
+
+</nav>
+
+<p>
+
+© 2026 Tsianjery
+
+</p>
+
 </footer>
 
 </body>
