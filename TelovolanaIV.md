@@ -31,3 +31,6 @@ Ary aoka ho ambonin'izany rehetra izany ny fitiavana fa fehin'ny fahatanterahana
 Aoka ny fiteninareo ho amin'ny fahasoavana mandrakariva, ho mamy sira, mba ho fantatrareo izay tokony havalinareo ny olona rehetra **Kol 4:6**
 #### 13. Hatoky tsara amin'izay rehetra mety ho sitrapon'Andriamanitra
 Misaora amin'ny zavatra rehetra; fa izany no sitrapon'Andriamanitra ao amin'i Kristy Jesosy ho anareo. **1 Tes 5:18**
+<p style="text-align:center;">
+<a href="#">↑ Miverina any an-tampony</a>
+</p>
