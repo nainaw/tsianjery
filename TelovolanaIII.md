@@ -1,8 +1,8 @@
 ---
 title: 1 sy 2 Korintianina
 subtitle:
-previous: /TelovolanaIII.html
-next:
+previous: TelovolanaII.html
+next: TelovolanaIV
 ---
 #### 1. Ny asa fanompoan'i Paoly tao Korinto
 Ary ny Tompo niteny tamin’ i Paoly tamin’ ny fahitana nony alina ka nanao hoe: Aza matahotra, fa mitenena ihany, ka aza mangìna; fa Izaho momba anao, ary tsy hisy olona hihazona anao hanisy ratsy anao; fa manana olona maro amin’ ity tanàna ity Aho. **Asa. 18:9,10**
