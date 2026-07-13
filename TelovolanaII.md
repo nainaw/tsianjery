@@ -1,6 +1,8 @@
 ---
-title: "MITOMBO AMIN'NY FIFANDRAISANA AMIN'ANDRIAMANITRA"
-subtitle:
+title: |
+  MITOMBO AMIN'NY FIFANDRAISANA
+  AMIN'ANDRIAMANITRA
+subtitle: "Kristy ao amin'ny Filipiana sy ny Kolosiana"
 
 previous: /TelovolanaI.html
 next: /TelovolanaIII.html
