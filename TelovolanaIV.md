@@ -1,5 +1,5 @@
 ---
-title: "MBOLA MIANDRY OVAINA REHEFA FANTATRA"
+title: 
 subtitle: 
 
 previous: /TelovolanaIII.html
