@@ -79,3 +79,13 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.site-title {
+    color: white;
+    text-decoration: none;
+}
+
+.site-title:hover {
+    text-decoration: none;
+    opacity: 0.9;
+}
