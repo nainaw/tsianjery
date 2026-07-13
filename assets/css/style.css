@@ -89,3 +89,20 @@ a:hover {
     text-decoration: none;
     opacity: 0.9;
 }
+.topnav {
+    margin-top: 15px;
+}
+
+.topnav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 14px;
+    border: 1px solid white;
+    border-radius: 6px;
+}
+
+.topnav a:hover {
+    background: white;
+    color: #2d5a27;
+}
