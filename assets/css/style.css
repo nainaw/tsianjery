@@ -78,6 +78,10 @@ main h1{
     text-align:center;
 
     color:#2d5a27;
+    
+    font-size:2.2rem;
+
+    letter-spacing:.04em;
 
 }
 
@@ -88,6 +92,12 @@ main h2{
     color:#047821;
 
     margin-bottom:35px;
+
+    font-size:1.3rem;
+
+    font-style:italic;
+
+    font-weight:normal;
 
 }
 
