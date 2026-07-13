@@ -32,3 +32,6 @@ Ary tsy izany ihany, fa aoka isika hifaly amin'ny fahoriana aza, satria fantatsi
 Jehovah Tompo no nanome ahy ny lelan'ny efa mahay, mba hahaizako manao teny hampahatanjaka izay reraka; ampandrenesiny isa-maraina isa-maraina, eny ampandrenesiny ny sofiko hihaino tahaka ny efa mahay **Isa 50:4**
 #### 13. Ny mandrakizay
 Ry malala, ankehitriny aza dia zanak'Andriamanitra isika, nefa tsy mbola naseho izay ho toetsika rahatrizay. Fantatsika fa raha hiseho Izy, dia ho tahaka Azy isika, fa ho hitantsika Izy, dia izay tena endriny tokoa **1 Jao 3:2**
+<p style="text-align:center;">
+<a href="#">↑ Miverina any an-tampony</a>
+</p>
