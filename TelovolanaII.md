@@ -4,8 +4,8 @@ title: |
   AMIN'ANDRIAMANITRA
 subtitle: "Kristy ao amin'ny Filipiana sy ny Kolosiana"
 
-previous: /TelovolanaI.html
-next: /TelovolanaIII.html
+previous: TelovolanaI.html
+next: TelovolanaIII.html
 ---
 
 #### 1. Miatrika ny tena zava-misy marina
