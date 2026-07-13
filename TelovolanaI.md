@@ -28,6 +28,9 @@ Izy no endrik'Andriamanitra tsy hita, ny lahimatoa talohan'izao zavatra ary rehe
 Izay tsy nahalala ota dia efa nataony ota hamonjy antsika, mba ho tonga fahamarinan'Andriamanitra ao Aminy kosa isika **2 Kor 5:21**
 #### 10. Tanteraka ao amin'i Kristy
 Koa aza avela hisy hitsara anareo ny amin'ny fihinana, na ny fisotro, na ny andro firavoravoana, na ny voaloham-bolana, na ny Sabata; aloky ny zavatra ho avy ireny, fa ny tenany dia an'i Kristy **Kol 2: 16,17**
+<p style="text-align:center;">
+<a href="#">↑ Miverina any an-tampony</a>
+</p>
 #### 11. Fiainana miaraka amin'i Kristy
 Ary aoka ho ambonin'izany rehetra izany ny fitiavana fa fehin'ny fahatanterahana izany **Kol 3:14**
 #### 12. Miara-monina
