@@ -1,7 +1,8 @@
 ---
 title: "TELOVOLANA I"
 subtitle: |
-          "Mampifandray ny lanitra sy ny tany Kristy ao amin'ny Filipiana sy ny Kolosiana"
+          Mampifandray ny lanitra sy ny tany 
+          Kristy ao amin'ny Filipiana sy ny Kolosiana
 
 previous:
 next: TelovolanaII.html
