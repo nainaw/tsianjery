@@ -3,7 +3,7 @@ title: "MAMPIFANDRAY NY LANITRA SY NY TANY"
 subtitle: "Kristy ao amin'ny Filipiana sy ny Kolosiana"
 
 previous:
-next: /TelovolanaII.html
+next: TelovolanaII.html
 ---
 
 #### 1. Enjehina, nefa tsy nafoy
