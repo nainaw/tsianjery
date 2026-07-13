@@ -1,4 +1,7 @@
-# MITOMBO AMIN'NY FIFANDRAISANA AMIN'ANDRIAMANITRA
+---
+title: "MITOMBO AMIN'NY FIFANDRAISANA AMIN'ANDRIAMANITRA"
+subtitle:
+---
 #### 1. Miatrika ny tena zava-misy marina
 Tahaka ny nitiavan'ny Ray Ahy no nitiavako anareo; tomoera amin'ny fitiavako hianareo **Jao 15:9**
 #### 2. Mahafantatra an'Andriamanitra
