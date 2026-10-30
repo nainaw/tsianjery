@@ -28,7 +28,7 @@ Fa velona sy mahery ny tenin’ Andriamanitra ka maranitra noho ny sabatra roa l
 #### 11. Manangana mpaminany amin'ny fotoana manan-danja Andriamanitra
 Tsy manao na inona na inona tokoa Jehovah Tompo, raha tsy milaza ny heviny amin’ ny mpaminany mpanompony. **Amo. 3:7**
 #### 12. Ireo faminaniana momba ny andro farany
-Ary rehefa afaka izany, dia handatsaka ny Fanahiko amin’ ny nofo rehetra Aho; Dia haminany ny zanakalahinareo sy ny zanakavavinareo, ny lahiantitrareo hanonofy, ary ny zatovonareo hahita fahitana; Ary na dia ny mpanompolahy sy ny mpanompovavy aza dia handatsahako ny Fanahiko amin’ ny misy andro izany. **Joe. 3:1,2**
+Ary rehefa afaka izany, dia handatsaka ny Fanahiko amin’ ny nofo rehetra Aho; Dia haminany ny zanakalahinareo sy ny zanakavavinareo, ny lahiantitrareo hanonofy, ary ny zatovonareo hahita fahitana; Ary na dia ny mpanompolahy sy ny mpanompovavy aza dia handatsahako ny Fanahiko amin’izany andro izany. **Joe. 3:1,2**
 #### 13. Ireo fitahiana avy amin'ny teny faminaniana
 Izay soratra rehetra nomen’ ny tsindrimandrin’ Andriamanitra dia mahasoa koa ho fampianarana, ho fandresen-dahatra, ho fanitsiana izay diso, ho fitaizana amin’ ny fahamarinana, mba ho tanteraka ny olon’ Andriamanitra, ho vonona tsara ho amin’ ny asa tsara rehetra. **2 Tim.3:16,17**
 <p style="text-align:center;">
