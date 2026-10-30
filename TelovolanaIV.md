@@ -10,7 +10,7 @@ Rehefa nampitenenin’ Andriamanitra tamin’ ny razana fahiny ny mpaminany tami
 #### 2. Ny fiantsoana ho mpaminany
 Ary nandre ny feon’ ny Tompo aho nanao hoe: Iza no hirahiko, ary iza no handeha ho irakay? Dia hoy izaho: Inty aho, iraho aho. **Isa 6:8**
 #### 3. Ireo mpaminanin'ny Testamenta Taloha
-Ary nifoha maraina koa izy, dia niainga nankany an-efitr’ i Tekoa; ary nony nivoaka izy, dia nitsangana teo Josafata ka nanao hoe: Mihainoa ahy, ry Joda, sy ianareo, ry mponina eto Jerosalema: Minoa an’ i Jehovah Andriamanitrareo, dia ho tafatoetra ianareo; minoa ny mpaminaniny, dia hambinina ianareo. **2 Tant. 20:20**
+dia nitsangana teo Josafata ka nanao hoe: Mihainoa ahy, ry Joda, sy ianareo, ry mponina eto Jerosalema: Minoa an’ i Jehovah Andriamanitrareo, dia ho tafatoetra ianareo; minoa ny mpaminaniny, dia hambinina ianareo. **2 Tant. 20:20**
 #### 4. Ireo mpaminanin'ny Testamenta Vaovao
 Zarazaraina ho samy hafa ny fanomezam-pahasoavana, nefa ny Fanahy dia iray ihany. Ary zarazaraina ho samy hafa ny fanompoana, nefa ny Tompo dia iray ihany. Ary zarazaraina ho samy hafa ny asa, nefa Andriamanitra dia iray ihany, Izay miasa ny zavatra rehetra amin’ ny olona rehetra. **1 Kor. 12:4-6**
 #### 5. Fanambarana sy tsindrimandry avy amin'Andriamanitra
