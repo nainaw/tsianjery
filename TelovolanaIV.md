@@ -14,7 +14,7 @@ dia nitsangana teo Josafata ka nanao hoe: Mihainoa ahy, ry Joda, sy ianareo, ry 
 #### 4. Ireo mpaminanin'ny Testamenta Vaovao
 Zarazaraina ho samy hafa ny fanomezam-pahasoavana, nefa ny Fanahy dia iray ihany. Ary zarazaraina ho samy hafa ny fanompoana, nefa ny Tompo dia iray ihany. Ary zarazaraina ho samy hafa ny asa, nefa Andriamanitra dia iray ihany, Izay miasa ny zavatra rehetra amin’ ny olona rehetra. **1 Kor. 12:4-6**
 #### 5. Fanambarana sy tsindrimandry avy amin'Andriamanitra
-Ny Fanambaran’ i Jesosy Kristy, izay nomen’ Andriamanitra Azy, mba hasehony amin’ ny mpanompony izay zavatra tsy maintsy ho tonga faingana; ary naniraka ny anjeliny Izy hanambara amin’ i Jaona mpanompony, Izay nanambara ny tenin’ Andriamanitra sy the filazana an’ i Jesosy Kristy, dia ny zavatra rehetra izay efa hitany. **Apok. 1:1,2**
+Ny Fanambaran’ i Jesosy Kristy, izay nomen’ Andriamanitra Azy, mba hasehony amin’ ny mpanompony izay zavatra tsy maintsy ho tonga faingana; ary naniraka ny anjeliny Izy hanambara amin’ i Jaona mpanompony, Izay nanambara ny tenin’ Andriamanitra sy ny filazana an’ i Jesosy Kristy, dia ny zavatra rehetra izay efa hitany. **Apok. 1:1,2**
 #### 6. Ireo faminaniana voasoratra
 Fa izay rehetra voasoratra fahiny dia nosoratana ho fianarantsika hananantsika ny fanantenana amin’ ny faharetana sy ny fiononana avy amin’ ny Soratra Masìna. **Rom 15:4**
 #### 7. Henoy izao!
