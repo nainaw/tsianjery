@@ -49,7 +49,7 @@ Kristy ao amin'ny Filipiana sy ny Kolosiana</h3>
 
 <h3>Mbola ho avy</h3>
 
-<a class="button" href="TelovolanaI.html">Sokafy</a>
+<a class="button" href="TelovolanaIV.html">Sokafy</a>
 
 </div>
 
