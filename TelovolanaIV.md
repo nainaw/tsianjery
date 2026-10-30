@@ -20,15 +20,15 @@ Fa izay rehetra voasoratra fahiny dia nosoratana ho fianarantsika hananantsika n
 #### 7. Henoy izao!
 Ary izany dia nanjo azy mba ho anatra, sady voasoratra izany ho fananarana antsika izay niharan’ ny faran’ izao tontolo izao. **1 Kor. 10:11**
 #### 8. Ny fanazavana ireo faminaniana
-Dia nanomboka hatramin’ i Mosesy sy the mpaminany rehetra Izy, ka nanambara taminy ny hevitry ny teny milaza Azy ao amin’ ny Soratra Masìna rehetra. **Lio. 24:27**
+Dia nanomboka hatramin’ i Mosesy sy ny mpaminany rehetra Izy, ka nanambara taminy ny hevitry ny teny milaza Azy ao amin’ ny Soratra Masìna rehetra. **Lio. 24:27**
 #### 9. Mizaha toetra ny mpaminany
 Ry malala, aza mino ny fanahy rehetra, fa izahao toetra ny fanahy, na avy amin’ Andriamanitra ireny, na tsia, satria maro ny mpaminany sandoka efa lasa any amin’ izao tontolo izao. **1 Jao. 4:1**
-#### 10. Ny fahefan'ny faminaniana sy the fahamarinany ankehitriny
+#### 10. Ny fahefan'ny faminaniana sy ny fahamarinany ankehitriny
 Fa velona sy mahery ny tenin’ Andriamanitra ka maranitra noho ny sabatra roa lela, ka manindrona hatramin’ ny fampisarahana ny aina sy ny fanahy ary ny tonona sy ny tsoka, ka mahay mamantatra ny eritreritra sy ny fisainan’ ny fo. **Heb. 4:12**
 #### 11. Manangana mpaminany amin'ny fotoana manan-danja Andriamanitra
 Tsy manao na inona na inona tokoa Jehovah Tompo, raha tsy milaza ny heviny amin’ ny mpaminany mpanompony. **Amo. 3:7**
 #### 12. Ireo faminaniana momba ny andro farany
-Ary rehefa afaka izany, dia handatsaka the Fanahiko amin’ ny nofo rehetra Aho; Dia haminany ny zanakalahinareo sy ny zanakavavinareo, ny lahiantitrareo hanonofy, ary ny zatovonareo hahita fahitana; Ary na dia ny mpanompolahy sy ny mpanompovavy aza dia handatsahako ny Fanahiko amin’ ny misy andro izany. **Joe. 3:1,2**
+Ary rehefa afaka izany, dia handatsaka ny Fanahiko amin’ ny nofo rehetra Aho; Dia haminany ny zanakalahinareo sy ny zanakavavinareo, ny lahiantitrareo hanonofy, ary ny zatovonareo hahita fahitana; Ary na dia ny mpanompolahy sy ny mpanompovavy aza dia handatsahako ny Fanahiko amin’ ny misy andro izany. **Joe. 3:1,2**
 #### 13. Ireo fitahiana avy amin'ny teny faminaniana
 Izay soratra rehetra nomen’ ny tsindrimandrin’ Andriamanitra dia mahasoa koa ho fampianarana, ho fandresen-dahatra, ho fanitsiana izay diso, ho fitaizana amin’ ny fahamarinana, mba ho tanteraka ny olon’ Andriamanitra, ho vonona tsara ho amin’ ny asa tsara rehetra. **2 Tim.3:16,17**
 <p style="text-align:center;">
