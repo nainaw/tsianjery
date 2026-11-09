@@ -47,7 +47,7 @@ Kristy ao amin'ny Filipiana sy ny Kolosiana</h3>
 
 <h2>📖 Telovolana IV</h2>
 
-<h3>Mbola ho avy</h3>
+<h3>Ny Fanomezam-pahasoavan'ny Faminiana</h3>
 
 <a class="button" href="TelovolanaIV.html">Sokafy</a>
 
